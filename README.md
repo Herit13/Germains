@@ -2,7 +2,7 @@
 
 A multliplayer game built with socket.io + react + nodejs + typescript.
 
-Demo [heroku link](https://ts-react-card-game.herokuapp.com/)
+
 
 ## How to run
 
